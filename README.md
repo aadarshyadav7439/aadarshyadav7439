@@ -19,7 +19,7 @@
 
 - 🎓 Fourth-year **B.Tech CSE** student at Delhi Skill and Entrepreneurship University (DSEU), Expected 2027 — CGPA 8.16/10
 - 💻 Full-stack developer with hands-on experience building and deploying **MERN** applications
-- 🧠 Currently building **InterviewIQ**, an AI-powered interview preparation platform
+- 🧠 Currently building **RelayContext**, an Extension the relays context across different AI platforms
 - 🌱 Interested in Full-Stack Web Development, DSA, and Generative AI
 - 📍 Based in Noida, India
 
@@ -67,11 +67,11 @@
 
 ### 🔥 Featured Projects
 
-#### 🤖 [InterviewIQ](https://github.com/aadarshyadav7439) — AI-Powered Interview Preparation Platform
+#### 🤖 [InterviewIQ](https://github.com/aadarshyadav7439/InterviewIQ) — AI-Powered Interview Preparation Platform
 Full-stack platform for generating role-specific mock interviews using the Google Gemini API, with JWT auth, resume upload/parsing via Cloudinary, and a community module for posts, likes, and comments.
 `React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Google Gemini API` `JWT` `Cloudinary`
 
-#### 🏡 [WanderLust](https://github.com/aadarshyadav7439) — Full-Stack Accommodation Booking Platform
+#### 🏡 [WanderLust](https://github.com/aadarshyadav7439/WanderLust) — Full-Stack Accommodation Booking Platform
 Airbnb-inspired booking platform with EJS server-side rendering, Passport.js authentication, owner-restricted CRUD across 9 property categories, and interactive maps via Leaflet.js/OpenStreetMap.
 `MERN` `EJS` `Passport.js` `Cloudinary` `Leaflet.js` `MVC Architecture`
 
