@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Aadarsh Yadav 👋</h1>
-<h3 align="center">Full-Stack Developer (MERN)</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/aadarsh-yadav-1aa1603b3">
@@ -13,6 +13,8 @@
   </a>
 </p>
 
+
+
 ---
 
 ### 🚀 About Me
@@ -21,7 +23,7 @@
 - 💻 Full-stack developer with hands-on experience building and deploying **MERN** applications
 - 🧠 Currently building **RelayContext**, an Extension the relays context across different AI platforms
 - 🌱 Interested in Full-Stack Web Development, DSA, and Generative AI
-- 📍 Based in Noida, India
+- 📍 Based in Delhi NCR, India
 
 ---
 
@@ -71,9 +73,9 @@
 Full-stack platform for generating role-specific mock interviews using the Google Gemini API, with JWT auth, resume upload/parsing via Cloudinary, and a community module for posts, likes, and comments.
 `React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Google Gemini API` `JWT` `Cloudinary`
 
-#### 🏡 [WanderLust](https://github.com/aadarshyadav7439/WanderLust) — Full-Stack Accommodation Booking Platform
-Airbnb-inspired booking platform with EJS server-side rendering, Passport.js authentication, owner-restricted CRUD across 9 property categories, and interactive maps via Leaflet.js/OpenStreetMap.
-`MERN` `EJS` `Passport.js` `Cloudinary` `Leaflet.js` `MVC Architecture`
+#### 🔗 [RelayContext](https://github.com/aadarshyadav7439/RelayContext) — Cross-Platform AI Context Relay Extension
+A browser extension that relays and syncs context across different AI chat platforms, letting you carry a conversation's context from one AI tool to another without manually copy-pasting.
+`JavaScript` `Browser Extension` `Chrome APIs`
 
 ---
 
@@ -88,6 +90,9 @@ Airbnb-inspired booking platform with EJS server-side rendering, Passport.js aut
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadarshyadav7439&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aadarshyadav7439&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
 ---
 
 ### 📫 Let's Connect
